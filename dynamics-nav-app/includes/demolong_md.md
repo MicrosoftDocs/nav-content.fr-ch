@@ -1,1 +1,1 @@
-CRONUS S.A. base de données de démonstration
+<span data-ttu-id="99289-101">CRONUS S.A.</span><span class="sxs-lookup"><span data-stu-id="99289-101">CRONUS International Ltd.</span></span> <span data-ttu-id="99289-102">base de données de démonstration</span><span class="sxs-lookup"><span data-stu-id="99289-102">demonstration database</span></span>
