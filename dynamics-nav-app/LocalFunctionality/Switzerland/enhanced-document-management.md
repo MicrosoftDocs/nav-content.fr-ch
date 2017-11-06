@@ -54,5 +54,4 @@ Vous pouvez sélectionner une ligne document au sein d'un type document, et affi
 ## <a name="see-also"></a>Voir aussi  
  [Procédure : créer des commandes vente ouvertes](../../sales-how-to-create-blanket-sales-orders.md)   
  [Procédure : suivre des lignes document](how-to-track-document-lines.md)   
- [Fonctionnalités locales pour l'Allemagne](../Germany/germany-local-functionality.md)
 
