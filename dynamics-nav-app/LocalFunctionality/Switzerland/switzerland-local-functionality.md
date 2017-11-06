@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6ba62f7b2f0e4eef9de924e59bea61ed412e35d1
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: fc8add489bece39662de0d0d8e71d1e0c3d21d7c
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="switzerland-local-functionality"></a>Fonctionnalités locales pour la Suisse
@@ -28,5 +28,8 @@ Les rubriques suivantes décrivent les fonctionnalités locales propres à la ve
   [Gestion des stocks suisse](swiss-inventory-management.md)  
   [Comptes généraux suisses](swiss-general-ledger-accounts.md)  
   [Documents vente et documents achat suisses](swiss-purchase-documents-and-sales-documents.md)  
-  [Procédure : imprimer des informations sur la configuration comptabilité](how-to-print-general-ledger-setup-information.md)  
+  [Procédure : imprimer des informations sur la configuration comptabilité](how-to-print-general-ledger-setup-information.md)
+
+## <a name="see-also"></a>Voir aussi
+[Utilisation de [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md) 
 
