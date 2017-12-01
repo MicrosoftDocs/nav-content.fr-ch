@@ -3,7 +3,7 @@ title: "Procédure : suivre des lignes document"
 description: "Vous pouvez utiliser le suivi de document pour afficher des documents associés à des lignes commande vente et à des lignes commande achat pour des commandes et des commandes archivées. Vous pouvez également afficher un aperçu des documents associés à des lignes commande."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 655191c792a1ef07b28dbe49c8acd5e098ecb0b1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4ef0ebde122d1441d1b664ae1bdd0e34d8f69954
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-track-document-lines"></a><span data-ttu-id="4a6ff-104">Procédure : suivre des lignes document</span><span class="sxs-lookup"><span data-stu-id="4a6ff-104">How to: Track Document Lines</span></span>

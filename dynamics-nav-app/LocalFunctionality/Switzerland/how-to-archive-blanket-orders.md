@@ -3,7 +3,7 @@ title: "Procédure : archiver des commandes ouvertes"
 description: "Vous pouvez archiver une commande vente ouverte ou une commande achat ouverte, et vous pouvez utiliser la commande ouverte archivée pour créer une commande."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 91cd74e683e4b22c5337f068666403e6cdf02831
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fb353814d72a300bc992a15d33a9289a26edcb7b
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-archive-blanket-orders"></a><span data-ttu-id="c2931-103">Procédure : archiver des commandes ouvertes</span><span class="sxs-lookup"><span data-stu-id="c2931-103">How to: Archive Blanket Orders</span></span>

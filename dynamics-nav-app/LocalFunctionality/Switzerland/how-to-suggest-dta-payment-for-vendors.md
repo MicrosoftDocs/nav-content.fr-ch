@@ -3,7 +3,7 @@ title: "Procédure : Proposer un paiement DTA pour les fournisseurs"
 description: "Vous pouvez proposer des paiements fournisseur à l'aide de la feuille paiement, et transférer les factures échues dans la feuille pour des fournisseurs spécifiques. Vous pouvez également rechercher les avoirs ouverts ou les paiements ouverts pour chaque fournisseur et constituer une liste de fournisseurs pour traitement DTA (DatenTrägerAustausch)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: b51b3f9273e9e737ef09901b0718d55350d44f87
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a607cffcd55c60daf653cf8dc339dc1aca0b8116
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-suggest-dta-payment-for-vendors"></a><span data-ttu-id="69b58-104">Procédure : Proposer paiement DTA pour les fournisseurs</span><span class="sxs-lookup"><span data-stu-id="69b58-104">How to: Suggest DTA Payment for Vendors</span></span>

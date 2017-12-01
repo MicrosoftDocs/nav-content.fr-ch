@@ -3,7 +3,7 @@ title: "Procédure : importer des codes postaux suisses"
 description: "Vous pouvez importer le fichier de codes postaux le plus récent et l'utiliser pour mettre à jour la table **Code postal**. Le fichier de codes postaux peut être téléchargé à partir du site web de la Poste suisse. Après avoir importé le fichier de codes postaux le plus récent, vous pouvez définir des codes postaux pour les clients ou les fournisseurs."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 176518028f3174c86266d42dccd2159a41b577b6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c124c0190999a5476e7d99262fe127f16d8d37b3
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-import-swiss-post-codes"></a><span data-ttu-id="a5421-105">Procédure : importer des codes postaux suisses</span><span class="sxs-lookup"><span data-stu-id="a5421-105">How to: Import Swiss Post Codes</span></span>

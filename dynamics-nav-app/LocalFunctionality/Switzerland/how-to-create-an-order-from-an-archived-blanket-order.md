@@ -3,7 +3,7 @@ title: "Procédure : créer une commande à partir d'une commande ouverte archi
 description: "Vous pouvez créer une commande vente ou une commande achat à partir d'une commande ouverte archivée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 820d7725eb518080c2dd47872100823f6570eb02
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b8a054e052ba2f667c9659ec80dc9abe1e197eff
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-an-order-from-an-archived-blanket-order"></a><span data-ttu-id="59923-103">Procédure : créer une commande à partir d'une commande ouverte archivée</span><span class="sxs-lookup"><span data-stu-id="59923-103">How to: Create an Order from an Archived Blanket Order</span></span>

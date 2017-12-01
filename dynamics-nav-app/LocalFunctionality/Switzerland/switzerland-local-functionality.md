@@ -3,7 +3,7 @@ title: "Fonctionnalités locales pour la Suisse"
 description: "Les rubriques suivantes décrivent les fonctionnalités locales de la version suisse de [!INCLUDE[navnow](../../includes/navnow_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: fc8add489bece39662de0d0d8e71d1e0c3d21d7c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e58c8230fc835e297436bf135fb8a3f8459e7ee4
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="switzerland-local-functionality"></a><span data-ttu-id="9345d-103">Fonctionnalités locales pour la Suisse</span><span class="sxs-lookup"><span data-stu-id="9345d-103">Switzerland Local Functionality</span></span>

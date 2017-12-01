@@ -3,7 +3,7 @@ title: "Procédure : afficher les soldes temporaires dans les feuilles comptabi
 description: "Lorsque vous entrez une nouvelle transaction dans la feuille comptabilité, vous pouvez afficher les soldes temporaires qui affichent comment les soldes des comptes généraux seraient affectés par la validation de la feuille. Vous pouvez afficher les détails de solde du compte pour la ligne feuille active. Vous pouvez également afficher les valeurs non validées pour la feuille actuelle."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: aeabed2f646f99a765491b0a651016577d2a2924
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2acfc827beab7f0b1af928320a7ee0e462de96c1
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-view-temporary-balances-in-general-ledger-journals"></a><span data-ttu-id="5d245-105">Procédure : afficher les soldes temporaires dans les feuilles comptabilité</span><span class="sxs-lookup"><span data-stu-id="5d245-105">How to: View Temporary Balances in General Ledger Journals</span></span>

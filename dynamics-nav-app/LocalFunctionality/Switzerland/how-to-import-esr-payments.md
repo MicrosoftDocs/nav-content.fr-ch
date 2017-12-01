@@ -3,7 +3,7 @@ title: "Procédure : importer des paiements BVR"
 description: "Après avoir reçu le paiement d'un client, vous recevez un fichier qui contient des informations sur les factures payées. Vous pouvez recevoir ce fichier de votre banque par voie électronique ou par e-mail."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: c69d1f8574a4d890904f2c5ee00983186d070d17
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fbe3799db9e5c229f1198332bc6a8d7f08211fed
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-import-esr-payments"></a><span data-ttu-id="d14cc-104">Procédure : importer des paiements BVR</span><span class="sxs-lookup"><span data-stu-id="d14cc-104">How to: Import ESR Payments</span></span>

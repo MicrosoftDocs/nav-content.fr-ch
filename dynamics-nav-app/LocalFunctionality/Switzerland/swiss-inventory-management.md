@@ -3,7 +3,7 @@ title: Gestion des stocks suisse
 description: "Les améliorations suisses incluent des fonctionnalités spéciales de gestion des stocks."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 98e1c1dd52127710cedf3c849eee0fffc876e02b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9b004b67e9542e43096e1aedb7bb4fe91acc699c
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="swiss-inventory-management"></a><span data-ttu-id="4183f-103">Gestion des stocks suisse</span><span class="sxs-lookup"><span data-stu-id="4183f-103">Swiss Inventory Management</span></span>

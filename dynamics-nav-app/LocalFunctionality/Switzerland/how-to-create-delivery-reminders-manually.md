@@ -3,7 +3,7 @@ title: "Procédure : créer des relances de livraison manuellement"
 description: Dans ADD INCLUDE<!--[!INCLUDE[navnow](../../includes/how-to-generate-delivery-reminders.md).
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 8db551fa5341c6c25ad368782a4e3f3ceca95760
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 747277727ca9b81206fe056c609a2df3149e4bd9
 ms.contentlocale: fr-ch
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-delivery-reminders-manually"></a><span data-ttu-id="80375-103">Procédure : créer des relances de livraison manuellement</span><span class="sxs-lookup"><span data-stu-id="80375-103">How to: Create Delivery Reminders Manually</span></span>
