@@ -3,7 +3,7 @@ title: "Procédure : exporter des paiements avec OPAE"
 description: "Vous pouvez générer un fichier pour paiement électronique à l'aide de la méthode OPAE (ordre de paiement électronique) et l'exporter pour permettre à la banque de l'utiliser pour les paiements."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

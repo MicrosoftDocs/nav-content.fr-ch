@@ -3,7 +3,7 @@ title: Taux de TVA pour la Suisse
 description: "En cas de modification des taux de TVA, vous devez utiliser l'outil de modification du taux de TVA. Dans les versions précédentes de [!INCLUDE[navnow](../../includes/navnow_md.md)], vous pouviez utiliser temporairement les taux de TVA nouveaux et anciens pour les transactions, en fonction des dates expédition. Cette fonctionnalité a été supprimée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

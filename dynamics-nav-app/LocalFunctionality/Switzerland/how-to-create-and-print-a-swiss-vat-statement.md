@@ -3,7 +3,7 @@ title: "Procédure : créer et imprimer une déclaration de TVA suisse"
 description: "Sur la base des informations que vous avez spécifiées dans la fenêtre **Paramètres compta. TVA**, [!INCLUDE[navnow](../../includes/navnow_md.md)] peut créer automatiquement de nouveaux paramètres de déclaration de TVA pour le report de TVA réalisée. Avant d'exécuter les procédures de cette rubrique, assurez-vous que vous avez défini les paramètres de comptabilisation TVA avec des valeurs spécifiées pour les champs chiffrés vente et achat."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

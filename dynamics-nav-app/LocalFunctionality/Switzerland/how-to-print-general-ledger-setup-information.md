@@ -3,7 +3,7 @@ title: "Procédure : imprimer des informations sur la configuration comptabilit
 description: "Avant d'utiliser [!INCLUDE[navnow](../../includes/navnow_md.md)] dans le cadre de vos activités quotidiennes, vous pouvez exécuter l'état **Informations sur la configuration comptabilité** pour afficher les données principales que vous avez configurées."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

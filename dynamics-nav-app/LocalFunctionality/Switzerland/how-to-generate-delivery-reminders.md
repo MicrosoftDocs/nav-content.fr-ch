@@ -3,7 +3,7 @@ title: "Procédure : générer des relances de livraison"
 description: Dans ADD INCLUDE<!--[!INCLUDE[navnow](../../includes/how-to-create-delivery-reminders-manually.md).
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

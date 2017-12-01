@@ -3,7 +3,7 @@ title: "Procédure : émettre des relances de livraison"
 description: "Après avoir créé des relances de livraison, vous devez les émettre et les imprimer pour pouvoir envoyer des relances aux fournisseurs. Avant d'émettre les relances de livraison, vous pouvez imprimer une impression test."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

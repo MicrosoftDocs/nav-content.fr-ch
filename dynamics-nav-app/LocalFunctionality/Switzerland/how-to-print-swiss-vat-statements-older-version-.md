@@ -3,7 +3,7 @@ title: "Procédure : imprimer des déclarations de TVA suisses (version plus an
 description: "**Déclaration de TVA suisse** est l'état de calcul standard pour réaliser la TVA. Vous pouvez imprimer cet état et l'utiliser pour la génération d'états fiscaux trimestriels."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

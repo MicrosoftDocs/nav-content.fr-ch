@@ -3,7 +3,7 @@ title: "Comptes généraux suisses"
 description: "Les améliorations suisses incluent des fonctionnalités spéciales concernant les comptes généraux."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

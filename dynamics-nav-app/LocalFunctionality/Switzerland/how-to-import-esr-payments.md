@@ -3,7 +3,7 @@ title: "Procédure : importer des paiements BVR"
 description: "Après avoir reçu le paiement d'un client, vous recevez un fichier qui contient des informations sur les factures payées. Vous pouvez recevoir ce fichier de votre banque par voie électronique ou par e-mail."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

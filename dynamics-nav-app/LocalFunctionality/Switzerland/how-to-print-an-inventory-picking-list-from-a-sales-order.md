@@ -3,7 +3,7 @@ title: "Procédure : imprimer une liste des prélèvements stock à partir d'un
 description: "Vous pouvez imprimer une liste des prélèvements stock directement à partir d'une commande vente"
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : importer des numéros de clearing bancaire suisses"
 description: "Les numéros de clearing bancaire sont des numéros uniques utilisés pour identifier chaque agence ou établissement bancaire dans le répertoire des banques. Cette information est requise pour le paiement électronique. Le fichier peut être téléchargé à partir du site Web [Clearing interbancaire SIX](http://go.microsoft.com/fwlink/?LinkId=145121)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

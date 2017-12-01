@@ -3,7 +3,7 @@ title: "Paiements électroniques suisses"
 description: "Les améliorations suisses vous permettent d'envoyer des factures aux clients sous forme électronique. Les factures sont présentées et payées directement à l'aide du logiciel bancaire en ligne du client."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

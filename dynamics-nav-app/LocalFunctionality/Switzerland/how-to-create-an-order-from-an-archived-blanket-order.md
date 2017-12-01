@@ -3,7 +3,7 @@ title: "Procédure : créer une commande à partir d'une commande ouverte archi
 description: "Vous pouvez créer une commande vente ou une commande achat à partir d'une commande ouverte archivée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

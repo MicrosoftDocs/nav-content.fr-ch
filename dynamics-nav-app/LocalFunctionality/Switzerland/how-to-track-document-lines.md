@@ -3,7 +3,7 @@ title: "Procédure : suivre des lignes document"
 description: "Vous pouvez utiliser le suivi de document pour afficher des documents associés à des lignes commande vente et à des lignes commande achat pour des commandes et des commandes archivées. Vous pouvez également afficher un aperçu des documents associés à des lignes commande."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Relances de livraison
 description: "Les relances de livraison sont utilisées pour suivre les expéditions fournisseur en retard et pour rappeler aux fournisseurs des livraisons en retard."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

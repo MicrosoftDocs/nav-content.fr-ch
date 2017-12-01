@@ -3,7 +3,7 @@ title: "Procédure : traiter un recouvrement LSV"
 description: "Vous pouvez utiliser les **feuilles LSV** pour créer et traiter les paiements des clients LSV+ (Lastschrift Verfahren). Vous pouvez enregistrer ces paiements dans la feuille règlement, créer un fichier LSV, puis imprimer l'ordre de recouvrement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

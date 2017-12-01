@@ -3,7 +3,7 @@ title: "Procédure : bloquer une expédition pour des stocks négatifs"
 description: "Vous pouvez bloquer une expédition sortante pour un article lorsqu'une transaction entraîne des stocks négatifs pour cet article."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

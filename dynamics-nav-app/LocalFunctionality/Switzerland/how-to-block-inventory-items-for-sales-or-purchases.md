@@ -3,7 +3,7 @@ title: "Procédure : bloquer des articles en stock pour des ventes ou des achat
 description: "Dans [!INCLUDE[navnow](../../includes/navnow_md.md)], un article peut être marqué comme bloqué pour les ventes, bloqué pour les achats ou bloqué pour toutes les finalités."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : afficher les soldes temporaires dans les feuilles comptabi
 description: "Lorsque vous entrez une nouvelle transaction dans la feuille comptabilité, vous pouvez afficher les soldes temporaires qui affichent comment les soldes des comptes généraux seraient affectés par la validation de la feuille. Vous pouvez afficher les détails de solde du compte pour la ligne feuille active. Vous pouvez également afficher les valeurs non validées pour la feuille actuelle."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : imprimer des états Liste des paiements fournisseur"
 description: "L'état **Liste des paiements fournisseur** fournit une liste des paiements pour chaque fournisseur. L'état peut trier les paiements, soit par ordre chronologique, soit groupés par fournisseur."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

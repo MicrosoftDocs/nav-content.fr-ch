@@ -3,7 +3,7 @@ title: "Paiements électroniques suisses avec LSV+"
 description: "La méthode de paiement électronique LSV+ (Lastschrift Verfahren), ou prélèvement, une version améliorée de LSV, permet aux sociétés d'extraire les paiements directement sur les comptes bancaires de leurs clients. Pour extraire des paiements client, vous devez envoyer un fichier LSV à la banque, et la banque collectera les paiements demandés dans le fichier."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

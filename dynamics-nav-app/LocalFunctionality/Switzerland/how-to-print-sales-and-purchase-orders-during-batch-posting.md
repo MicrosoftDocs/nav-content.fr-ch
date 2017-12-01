@@ -3,7 +3,7 @@ title: "Procédure : imprimer des commandes achat et vente pendant le traitemen
 description: "Après la validation des commandes achat et vente avec le traitement par lots, vous pouvez imprimer les documents validés correspondants."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

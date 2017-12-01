@@ -3,7 +3,7 @@ title: "Procédure : vérifier une liste de fournisseurs pour paiements DTA"
 description: "L'état feuille paiement DTA (DatenTrägerAustausch) affiche des informations pour chaque ligne paiement. Vous pouvez également afficher des commentaires dans la colonne Commentaires. L'état inclut des informations sur le nombre de validations, le montant de validation le plus élevé et le montant total en devise étrangère et société."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

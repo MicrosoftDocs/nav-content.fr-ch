@@ -3,7 +3,7 @@ title: "Procédure : désactiver la traçabilité coût article"
 description: "Lorsque le stock n'est pas suivi pour un article, le coût article ne doit pas nécessairement être suivi et une écriture comptable article ne doit pas nécessairement être créée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Paiements électroniques suisses avec BVR"
 description: "La méthode de paiement électronique BVR (bulletin de versement avec numéro de référence) est un service de débiteur électronique qui permet au client de facturer des factures ouvertes en francs suisses (CHF) et en euros (EUR), et de valider les paiements entrants de manière efficace."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

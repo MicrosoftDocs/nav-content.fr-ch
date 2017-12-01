@@ -3,7 +3,7 @@ title: "Procédure : exporter des paiements avec LSV"
 description: "Vous pouvez exporter ou écrire des fichiers LSV+ (Lastschrift Verfahren) qui contiennent des informations sur les paiements après avoir clôturé le recouvrement LSV. Vous pouvez envoyer les fichiers générés à la banque sur disque, ou utiliser un transfert de fichier électronique comme votre logiciel de banque en ligne ou un portail Internet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

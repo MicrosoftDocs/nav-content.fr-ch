@@ -3,7 +3,7 @@ title: "Procédure : ajuster des taux de change"
 description: "Si vous avez des ventes imposables dans une devise étrangère, vous devez utiliser le taux officiel pour la conversion de devise TVA comme défini par l'Administration fédérale des contributions."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

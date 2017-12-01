@@ -3,7 +3,7 @@ title: "Procédure : copier des articles existants vers de nouveaux articles"
 description: "Vous pouvez regrouper des articles ayant des paramètres similaires dans un catalogue. Lorsque vous ajoutez un nouvel article, pour gagner du temps, vous pouvez utiliser **Copier l'article** pour copier un article existant qui sera utilisé comme modèle pour un nouvel article."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

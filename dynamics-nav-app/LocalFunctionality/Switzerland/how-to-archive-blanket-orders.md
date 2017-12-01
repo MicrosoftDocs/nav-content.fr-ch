@@ -3,7 +3,7 @@ title: "Procédure : archiver des commandes ouvertes"
 description: "Vous pouvez archiver une commande vente ouverte ou une commande achat ouverte, et vous pouvez utiliser la commande ouverte archivée pour créer une commande."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

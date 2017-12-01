@@ -3,7 +3,7 @@ title: "Procédure : paramétrer l'archivage automatique de documents"
 description: "Vous pouvez paramétrer l'archivage automatique de documents vente et de documents achat (devis, commandes ouvertes et commandes) avant de supprimer ces documents."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

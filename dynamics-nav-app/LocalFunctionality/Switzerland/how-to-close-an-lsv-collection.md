@@ -3,7 +3,7 @@ title: "Procédure : clôturer un recouvrement LSV"
 description: "Vous devez clôturer les recouvrements LSV+ (Lastschrift Verfahren) pour écrire des fichiers LSV qu'il est possible d'envoyer à la banque pour recouvrement de paiement. Lorsque vous clôturez un recouvrement, celui-ci est complet, et les validations dans la feuille LSV sont combinées."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

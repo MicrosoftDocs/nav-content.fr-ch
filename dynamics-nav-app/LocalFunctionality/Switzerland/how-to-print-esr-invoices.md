@@ -3,7 +3,7 @@ title: "Procédure : imprimer des factures BVR"
 description: "Vous pouvez imprimer un bordereau de paiement BVR (bulletin de versement avec numéro de référence) de plusieurs manières."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

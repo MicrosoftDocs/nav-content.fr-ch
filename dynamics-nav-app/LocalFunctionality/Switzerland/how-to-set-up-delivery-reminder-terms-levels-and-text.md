@@ -3,7 +3,7 @@ title: "Procédure : paramétrer des conditions, des niveaux et du texte pour l
 description: "Pour créer des relances de livraison, vous devez paramétrer des conditions, des niveaux et du texte pour ces dernières. messages"
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
